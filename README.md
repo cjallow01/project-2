@@ -16,9 +16,13 @@ Below is the imdb_top_1000.CSV screenshot ![This is an image](https://github.com
 **Purpose**
 
 The Netflico, a video streaming company, decided to sponsor an Intern program, where participants were trying to get an updated list of the Top 1000 movies so that the audience can get clear information of the movies. In order to provide organized and clean dataset, this project focuses on ETL* or Extract, Transform and Load process and includes the following:
+
 •	Extracting data from two different sources.
-o	The Internet Movie Database dataset from Kaggle
-o	Wikipedia Movie Plots dataset from Kaggle
+
+  o	The Internet Movie Database dataset from Kaggle
+  
+  o	Wikipedia Movie Plots dataset from Kaggle
+  
 •	Transforming data using VSCode, Jupyter Notebook, Python, and Pandas 
 •	Loading data using PostgreSQL and pgAdmin to host final cleaned data set.
 Project Description
@@ -37,6 +41,9 @@ Here CSV files
 **Transform**
 
 The data we clean from 25 columns to 16 columns and then merge into a single dataframe.
+
+**Load**
+The data are then load into a non sql database
 
 **Resources**
 
@@ -74,10 +81,10 @@ Data Sources:
 
 4. Verify unwanted information/data before joining the tables
 
-5. cleaning the data
+5. Cleaning the data
 
 6. Merging the tables to one dataset
 
-7. dropping all un-needed column
+7. Dropping all un-needed column
 
 8. Did the data load - create movies_merge_df dataset
