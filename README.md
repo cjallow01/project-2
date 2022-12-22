@@ -30,7 +30,7 @@ The following are the steps taken to achieve the result.
 The two sources of data is extracted from Kaggle in a csv format. The first data set is extracted from Wikipedia Movie Plots and the second data set is extracted from IMDb Top 1000 Movies. Below is a screenshot of both the dataset.
 
 Here CSV files
- 1. imdb_top_1000.csv
+ 1. [imdb_top_1000.CSV](https://github.com/cjallow01/project-2/blob/main/imdb_top_1000.csv)
  2. wiki_movies_plots.csv
 
 **Transform**
