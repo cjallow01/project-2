@@ -9,7 +9,7 @@ Raw data exists in multiple places and forms. In order to perform any kind of da
 
 Below is the wiki_movie_plots.CSV screenshot ![This is an image](https://github.com/cjallow01/project-2/blob/main/Wiki%20Screenshot.png)
 
-Below is the imdb_top_1000.CSV screenshot [This is an image]https://github.com/cjallow01/project-2/blob/main/imdb_top_1000.csv
+Below is the imdb_top_1000.CSV screenshot ![This is an image]https://github.com/cjallow01/project-2/blob/main/imdb_top_1000.csv
 
 Purpose
 The Netflico, a video streaming company, decided to sponsor an Intern program, where participants were trying to get an updated list of the Top 1000 movies so that the audience can get clear information of the movies. In order to provide organized and clean dataset, this project focuses on ETL* or Extract, Transform and Load process and includes the following:
