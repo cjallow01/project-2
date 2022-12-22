@@ -24,8 +24,12 @@ The Netflico, a video streaming company, decided to sponsor an Intern program, w
       o	Wikipedia Movie Plots dataset from Kaggle
   
 •	Transforming data using VSCode, Jupyter Notebook, Python, and Pandas 
-•	Loading data using PostgreSQL and pgAdmin to host final cleaned data set.
-Project Description
+
+•	Loading data using non Sql to host final cleaned data set.
+
+
+**Project Description**
+
 The goal of this analysis is to create automated pipeline that extracts, transform and loads data. The data is extracted from two sources, the first data set is Wikipedia Movie Plots csv on Kaggle https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots and the second data set is from IMDb Top 1000 Movies csv on Kaggle https://www.kaggle.com/datasets/omarhanyy/imdb-top-1000. 
 The following are the steps taken to achieve the result.
 
