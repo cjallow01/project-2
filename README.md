@@ -12,6 +12,7 @@ Below is the wiki_movie_plots.CSV screenshot ![This is an image](https://github.
 Below is the imdb_top_1000.CSV screenshot ![This is an image](https://github.com/cjallow01/project-2/blob/main/IMDb%20Screen%20sh%20ot.png)
 
 Purpose
+
 The Netflico, a video streaming company, decided to sponsor an Intern program, where participants were trying to get an updated list of the Top 1000 movies so that the audience can get clear information of the movies. In order to provide organized and clean dataset, this project focuses on ETL* or Extract, Transform and Load process and includes the following:
 •	Extracting data from two different sources.
 o	The Internet Movie Database dataset from Kaggle
