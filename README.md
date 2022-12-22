@@ -19,9 +19,9 @@ The Netflico, a video streaming company, decided to sponsor an Intern program, w
 
 •	Extracting data from two different sources.
 
-  o	The Internet Movie Database dataset from Kaggle
+      o	The Internet Movie Database dataset from Kaggle
   
-  o	Wikipedia Movie Plots dataset from Kaggle
+      o	Wikipedia Movie Plots dataset from Kaggle
   
 •	Transforming data using VSCode, Jupyter Notebook, Python, and Pandas 
 •	Loading data using PostgreSQL and pgAdmin to host final cleaned data set.
