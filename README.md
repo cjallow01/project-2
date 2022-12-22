@@ -36,22 +36,38 @@ Here CSV files
 
 **Transform**
 
-There will be 16 columns 
-Resources
+The data we clean from 25 columns to 16 columns and then merge into a single dataframe.
+
+**Resources**
+
 Data Sources:
-•	Wikipedia web scrape JSON file
 •	Kaggle data from Kaggle.com - two files: movies_metadata.csv and ratings.csv
-Enviroment:
+
+**Enviroment:**
 •	PythonDataOne
-Dependencies:
-Software:
-•	Jupyter Notebook
-•	PostgreSQL and PgAdmin
-References
-•	(1) Module 8. Extractm Transform, Load, https://courses.bootcampspot.com/courses/200/pages/8-dot-1-1-extract-transform-load?module_item_id=73402, Trilogy Education Services, 2000, Web 6 Sept 2020.
-Other Useful Articles
-•	apply & map methods
-•	List comprehension
-•	More list comprehension
-•	Lambda functions
-•	RegEx
+
+**ETL Steps and process**
+1. # Dependencies
+import requests
+from config import api_key
+import pandas as pd
+import json
+import os
+from sqlalchemy import create_engine
+import numpy as np
+from pprint import pprint 
+from sqlalchemy.orm import Session
+
+2. Read the CSV files
+
+3. Count/check duplicate in a DataFrame
+
+4. Verify unwanted information/data before joining the tables
+
+5. cleaning the data
+
+6. Merging the tables to one dataset
+
+7. dropping all un-needed column
+
+8. Did the data load - create movies_merge_df dataset
