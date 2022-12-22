@@ -31,7 +31,8 @@ The two sources of data is extracted from Kaggle in a csv format. The first data
 
 Here CSV files
  1. [imdb_top_1000.CSV](https://github.com/cjallow01/project-2/blob/main/imdb_top_1000.csv)
- 2. wiki_movies_plots.csv
+ 2. [wiki_movies_plots.csv](https://github.com/cjallow01/project-2/blob/main/wiki_movie_plots(small%20file).xlsx)
+ (note - the wiki_movie_plot CSV file is too large and couldn't be uploaed. We copied to top 500 rows to a new spreadsheet and uploaded.  
 
 **Transform**
 
