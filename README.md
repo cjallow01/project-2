@@ -1,7 +1,6 @@
 # project-2
 
 ETL - Extract, Transform and Load
-![This is an image]https://github.com/cjallow01/project-2/blob/main/ETL.PNG
 
 Project Overview
 
@@ -24,15 +23,15 @@ Project Description
 The goal of this analysis is to create automated pipeline that extracts, transform and loads data. The data is extracted from two sources, the first data set is Wikipedia Movie Plots csv on Kaggle https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots and the second data set is from IMDb Top 1000 Movies csv on Kaggle https://www.kaggle.com/datasets/omarhanyy/imdb-top-1000. 
 The following are the steps taken to achieve the result.
 
-Extract
+**Extract**
 The two sources of data is extracted from Kaggle in a csv format. The first data set is extracted from Wikipedia Movie Plots and the second data set is extracted from IMDb Top 1000 Movies. Below is a screenshot of both the dataset.
 
 Here CSV files
  1. imdb_top_1000.csv
  2. wiki_movies_plots.csv
 
-Transform 
-There will be 16 columns 
+**Transform** 
+
 Resources
 Data Sources:
 •	Wikipedia web scrape JSON file
