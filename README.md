@@ -49,7 +49,7 @@ Data Sources:
 **ETL Steps and process**
 
 1. # Dependencies
-*import requests
+*[import requests]
 *from config import api_key
 *import pandas as pd
 *import json
