@@ -47,6 +47,7 @@ Data Sources:
 •	PythonDataOne
 
 **ETL Steps and process**
+
 1. # Dependencies
 import requests
 from config import api_key
