@@ -48,16 +48,16 @@ Data Sources:
 
 **ETL Steps and process**
 
-1. # Dependencies
- -import requests
-*from config import api_key
-*import pandas as pd
-*import json
-*import os
-*from sqlalchemy import create_engine
-*import numpy as np
-*from pprint import pprint 
-*from sqlalchemy.orm import Session
+1.Dependencies
+  -import requests
+  -from config import api_key
+  -import pandas as pd
+  -import json
+  -import os
+  -from sqlalchemy import create_engine
+  -import numpy as np
+  -from pprint import pprint 
+  -from sqlalchemy.orm import Session
 
 2. Read the CSV files
 
