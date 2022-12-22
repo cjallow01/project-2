@@ -1,6 +1,7 @@
 # project-2
 
 ETL - Extract, Transform and Load
+![This is an image]https://github.com/cjallow01/project-2/blob/main/ETL.PNG
 
 Project Overview
 
